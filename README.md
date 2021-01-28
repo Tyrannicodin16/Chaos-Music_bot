@@ -33,4 +33,3 @@ This is the python code for my music bot. The music bot is different to others a
   + Make the bot disconnect voice
   ### skip
   + Skips to the next song
-  + __WARNING BREAKS THE BOT - WIP__
