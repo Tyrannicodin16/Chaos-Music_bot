@@ -13,7 +13,7 @@ chdir(dirname(argv[0]))
 
 with open("info.txt", "r") as f:
     lines = f.readlines()
-    fpath = "C:\\Users\\finla\\AppData\\Roaming\\ffmpeg\\bin\\ffmpeg.exe"
+    fpath = "Path goes here"
     token = str(lines[1])
 
 bot = commands.Bot(command_prefix="!", help_command=None)
